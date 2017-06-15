@@ -1,2 +1,2 @@
 # hello-world
-a short description
+Attempting to reduce the confusion and increase usefulness
